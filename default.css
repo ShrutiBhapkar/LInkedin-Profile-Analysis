@@ -9,7 +9,7 @@
 		padding: 0px;
 		background: #FFFFFF url(images/new.png);
 		background-repeat: no-repeat;
-		background-size:2300px,60px;
+		background-size:1650px,50px;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 12pt;
 		font-weight: 400;
@@ -335,7 +335,7 @@
 
 	#logo
 	{
-		height: 500px;
+		height: 200px;
 		padding: 5em 7em;
 		text-align: center;
 	}
